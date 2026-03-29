@@ -1,0 +1,5 @@
+# Зависимости hay_v2_bot (дополнительно к корневому requirements.txt).
+# Рекомендуется Python 3.11–3.12 для полной совместимости с docling; на 3.14 см. документацию docling.
+docling
+transformers
+tiktoken>=0.7.0
